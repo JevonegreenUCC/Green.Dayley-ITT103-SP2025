@@ -1,5 +1,4 @@
-import os  # Importing the 'os' module to clear the screen for a better receipt display
-
+import os  
 # Define the product catalog as a dictionary
 # Each product has a name, price, and stock quantity
 products = {
